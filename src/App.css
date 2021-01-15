@@ -2,6 +2,44 @@
   text-align: center;
 }
 
+.center
+{
+  text-align:center;
+}
+
+.twentyPoint
+{
+font-size:20pt;
+font-family: Helvetica Courier Arial
+}
+
+.italic
+{
+  font-style:italic
+}
+
+
+.thirtyTwoPoint
+{
+font-size:32pt;
+}
+
+.peachText
+{
+  color: #c83349;
+}
+
+.redText
+{
+color: #c83349;
+}
+
+.topOfPage
+{
+  margin-top: 10%;
+  background-color: #FF8CA9;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
