@@ -9,19 +9,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/a2937/quote-machine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Quote Machine</h3>
 
   <p align="center">
-    A project that displays quotes to the user
+    A project that displays quotes to the user from a web server and renders it to the user.
+    It can be tweeted or shared on Tumblr. 
     <br />
     <a href="https://github.com/a2937/quote-machine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://a2937.github.com/quote-machine">View Demo</a>
+    <a href="https://a2937.github.io/quote-machine">View Demo</a>
     ·
     <a href="https://github.com/a2937/quote-machine/issues">Report Bug</a>
     ·
@@ -61,12 +59,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+It
 
-[![Product Name Screen Shot][product-screenshot]](https://a2937.github.io/quote-machine)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`a2937`, `quote-machine`, `twitter_handle`, `a.rcottrill521 at gmail.com`, `Quote Machine`, `A project that displays quotes to the user`
 
 
 ### Built With
