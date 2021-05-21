@@ -57,6 +57,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+It was inspired by a freecodecamp challenge to let users share
+quotes. It comes with a handful of custom unit tests to ensure product
+quality. These tests were inspired by the challenge; but were completely
+hand-made in React-Testing-Library and jest.
 
 [![Product Name Screen Shot][product-screenshot]](https://a2937.github.io/quote-machine)
 
