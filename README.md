@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][[issues-url](https://github.com/a2937/quote-machine/issues)]
 [![MIT License][license-shield]][license-url]
 
 
@@ -9,19 +9,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/a2937/quote-machine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Quote Machine</h3>
 
   <p align="center">
-    A project that displays quotes to the user
+    A project that displays quotes to the user.
     <br />
     <a href="https://github.com/a2937/quote-machine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://a2937.github.com/quote-machine">View Demo</a>
+    <a href="https://a2937.github.io/quote-machine/">View Demo</a>
     ·
     <a href="https://github.com/a2937/quote-machine/issues">Report Bug</a>
     ·
@@ -64,11 +60,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://a2937.github.io/quote-machine)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`a2937`, `quote-machine`, `twitter_handle`, `a.rcottrill521 at gmail.com`, `Quote Machine`, `A project that displays quotes to the user`
-
-
 ### Built With
 
 * [React](https://reactjs.org/)
@@ -110,10 +101,8 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://github.com/a2937/quote-machine/wiki)_
-
+Open up the app and then the quote can be shared
+over Twitter or Tumblr.
 
 
 <!-- ROADMAP -->
@@ -150,6 +139,22 @@ Email - a.rcottrill521 at gmail.com
 
 Project Link: [https://github.com/a2937/quote-machine](https://github.com/a2937/quote-machine)
 
+Special Thanks:
+
+- FreeCodeCamp for the idea
+- lukePeavey for the api: https://github.com/lukePeavey/quotable
 
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/a2937/quote-machine.svg?style=for-the-badge
+[contributors-url]: https://github.com/a2937/quote-machine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/a2937/quote-machine.svg?style=for-the-badge
+[forks-url]: https://github.com/a2937/quote-machine/network/members
+[stars-shield]: https://img.shields.io/github/stars/a2937/quote-machine.svg?style=for-the-badge
+[stars-url]: https://github.com/a2937/quote-machine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/a2937/quote-machine.svg?style=for-the-badge
+[issues-url]: https://github.com/a2937/quote-machine/issues
+[license-shield]: https://img.shields.io/github/license/a2937/quote-machine.svg?style=for-the-badge
+[license-url]: https://github.com/a2937/quote-machine/blob/master/LICENSE.txt
+[product-screenshot]: images/screenshot.png
