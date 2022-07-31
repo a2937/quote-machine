@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][[issues-url](https://github.com/a2937/quote-machine/issues)]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 
