@@ -161,4 +161,4 @@ Special Thanks:
 [issues-url]: https://github.com/a2937/quote-machine/issues
 [license-shield]: https://img.shields.io/github/license/a2937/quote-machine.svg?style=for-the-badge
 [license-url]: https://github.com/a2937/quote-machine/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/Screenshot.PNG
